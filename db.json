@@ -1,0 +1,16 @@
+{
+    "profile": {
+        "id": "1",
+        "name": "goto"
+    },
+    "product": [
+        {
+            "id": "1",
+            "productName": "product1"
+        },
+        {
+            "id": "2",
+            "productName": "product2"
+        }
+    ]
+}

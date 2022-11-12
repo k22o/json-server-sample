@@ -1,0 +1,5 @@
+{
+    "/api/profile": "/profile",
+    "/api/product?id=:id": "/product",
+    "/api/product/:id": "/product/:id"
+}

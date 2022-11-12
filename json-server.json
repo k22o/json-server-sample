@@ -1,0 +1,6 @@
+{
+    "watch": true,
+    "routes": "routes.json",
+    "port": 5000,
+    "middlewares": ["middlewares/block-db-edit.js"]
+}
